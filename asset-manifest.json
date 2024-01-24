@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fa4071bd.css",
-    "main.js": "/static/js/main.6d7c869d.js",
+    "main.js": "/static/js/main.04818482.js",
     "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
     "static/media/cavevideo.mov": "/static/media/cavevideo.9835a1eaa18dd356b065.mov",
     "static/media/buildingvideo.mov": "/static/media/buildingvideo.6c4d1214bc0bdfe71e5f.mov",
@@ -11,18 +11,16 @@
     "static/media/screenshotwhole.png": "/static/media/screenshotwhole.a9f36a5225b15ae50d0c.png",
     "static/media/screenshotbulb.png": "/static/media/screenshotbulb.ed7f5e13f1e33f4d3f76.png",
     "static/media/sunset2.png": "/static/media/sunset2.661f3f0de741d8f18774.png",
-    "static/media/sunset1.png": "/static/media/sunset1.497f852537df20dab93a.png",
     "static/media/raytracer1.png": "/static/media/raytracer1.8f2ff73cf6eb03ff2c82.png",
     "static/media/raytracer2.png": "/static/media/raytracer2.b79a704f2a73ad2d4a55.png",
     "static/media/screenshot2iter.png": "/static/media/screenshot2iter.6fb784c115e1ef9f79e7.png",
-    "static/media/prism_icon.png": "/static/media/prism_icon.b1fef9ae4629a3a288e7.png",
     "index.html": "/index.html",
     "main.fa4071bd.css.map": "/static/css/main.fa4071bd.css.map",
-    "main.6d7c869d.js.map": "/static/js/main.6d7c869d.js.map",
+    "main.04818482.js.map": "/static/js/main.04818482.js.map",
     "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa4071bd.css",
-    "static/js/main.6d7c869d.js"
+    "static/js/main.04818482.js"
   ]
 }
